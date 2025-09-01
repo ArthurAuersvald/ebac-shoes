@@ -112,3 +112,25 @@ section {
     width: 100%;
 }
 
+@media (min-width: 641px) and (max-width: 1023px) {
+
+    .container {
+    max-width: 90%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+    #section-produtos ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .conteudo article {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .texto {
+        padding-left: 0;
+        padding-top: 2em;
+    }
+}
