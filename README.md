@@ -2,7 +2,7 @@
 
 Projeto de layout responsivo para uma loja virtual fictícia, **EBAC Shoes**, desenvolvido com HTML5 e CSS3. Disponível no ar via Vercel:
 
-**https://ebac-shoes-gamma-virid.vercel.app**
+**https://ebac-shoes-ten-dun.vercel.app**
 
 ---
 
